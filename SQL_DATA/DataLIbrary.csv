@@ -1,0 +1,13 @@
+member,prn,id,firstname,lastname,address1,address2,postcode,mobile,bookid,booktitle,author,dateborrowed,datedue,daysonbook,lateratefine,dateoverdue,finalprice
+Student,2023001,1,Hemraj,Jeetarwal,Mumbai,MH,400022,9833205861,1,Python Crash Course,Henry Due,28-08-2023,12-09-2023,15,Rs.50,No,Rs.242
+Student,2023002,2,Santosh,Jaishwal,Mumbai,MH,400034,9846374829,6,Deep Learning,R.K Mishra,28-08-2023,12-09-2023,15,Rs.50,No,Rs.643
+Student,2023003,3,Atharva,Nar,Mumbai,MH,400024,9846324229,2,JavaScript,Raley Jai,28-08-2023,12-09-2023,15,Rs.50,No,Rs.445
+Student,2023004,4,Aditya,Sonawane,Mumbai,MH,400097,8356324229,10,Algorithms,Sonal Rathod,28-08-2023,12-09-2023,15,Rs.50,No,Rs.590
+Student,2023005,5,Suresh,Bairi,Mumbai,MH,400001,8345783229,13,Vue.js 2 Cookbook,Joshef Alzer,28-08-2023,12-09-2023,15,Rs.50,No,Rs.3240
+Student,2023006,6,Harshal,Joshi,Mumbai,MH,4000023,9345734952,2,JavaScript,Raley Jai,28-08-2023,12-09-2023,15,Rs.50,No,Rs.445
+Student,2023007,7,Jatin,Duhri,Mumbai,MH,4000010,7429634952,10,Algorithms,Sonal Rathod,28-08-2023,12-09-2023,15,Rs.50,No,Rs.590
+Student,2023008,8,Jeson,Jurri,Pune,MH,4100082,9678634952,8,HTML and CSS,Raley Jai,28-08-2023,12-09-2023,15,Rs.50,No,Rs.220
+Student,2023009,9,Rebbis,Cat,Pune,MH,4100035,9123454952,11,Effective Java,Jenny Jeffer,28-08-2023,12-09-2023,15,Rs.50,No,Rs.120
+Student,2023010,10,Ramesh,Jain,Surat,GJ,300031,9347154923,14,Pro ASP.NET Core MVC,Jenny Jeffer,28-08-2023,12-09-2023,15,Rs.50,No,Rs.632
+Student,2023011,11,Suresh,Shah,Surat,GJ,300026,9723481931,19,Clean Code,Sonal Rathod,28-08-2023,12-09-2023,15,Rs.50,No,Rs.1230
+Student,2023012,12,Bhavesh,Jain,Surat,GJ,300073,9273648192,18,Head First Python,Raley Jai,28-08-2023,12-09-2023,15,Rs.50,No,Rs.133
